@@ -38,11 +38,11 @@ export const LANGUAGES_URL = [
     //     folder: "pt-BR",
     //     url: getLanguageUrl("brazilian"),
     // },
-    // {
-    //     language: "russian",
-    //     folder: "ru",
-    //     url: getLanguageUrl("russian"),
-    // },
+    {
+        language: "russian",
+        folder: "ru",
+        url: getLanguageUrl("russian"),
+    },
     // {
     //     language: "spanish",
     //     folder: "es-ES",
@@ -78,11 +78,11 @@ export const LANGUAGES_URL = [
     //     folder: "fr",
     //     url: getLanguageUrl("french"),
     // },
-    // {
-    //     language: "german",
-    //     folder: "de",
-    //     url: getLanguageUrl("german"),
-    // },
+    {
+        language: "german",
+        folder: "de",
+        url: getLanguageUrl("german"),
+    },
     // {
     //     language: "greek",
     //     folder: "el",
@@ -93,11 +93,11 @@ export const LANGUAGES_URL = [
     //     folder: "hu",
     //     url: getLanguageUrl("hungarian"),
     // },
-    // {
-    //     language: "italian",
-    //     folder: "it",
-    //     url: getLanguageUrl("italian"),
-    // },
+    {
+        language: "italian",
+        folder: "it",
+        url: getLanguageUrl("italian"),
+    },
     // {
     //     language: "japanese",
     //     folder: "ja",
@@ -128,11 +128,11 @@ export const LANGUAGES_URL = [
     //     folder: "pirate",
     //     url: getLanguageUrl("pirate"),
     //   },
-    // {
-    //     language: "polish",
-    //     folder: "pl",
-    //     url: getLanguageUrl("polish"),
-    // },
+    {
+        language: "polish",
+        folder: "pl",
+        url: getLanguageUrl("polish"),
+    },
     // {
     //     language: "portuguese",
     //     folder: "pt-PT",
